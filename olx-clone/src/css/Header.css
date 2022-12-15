@@ -1,9 +1,10 @@
+
 .headerParentDiv {
-    padding: 10px;
+    padding: 5px;
     background-color: whitesmoke;
-    position: fixed;
+    /* position: absolute; */
     width: 100vw;
-    z-index: 999;
+    z-index: 1;
   }
   
   .headerChildDiv {
