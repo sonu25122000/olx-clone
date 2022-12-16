@@ -5,6 +5,7 @@ import Search from '../assets/Search';
 import Arrow from '../assets/Arrow';
 import SellButton from '../assets/SellButton';
 import SellButtonPlus from '../assets/SellButtonPlus';
+
 function Navbar() {
   return (
     <div className="headerParentDiv">
@@ -33,7 +34,7 @@ function Navbar() {
           <Arrow></Arrow>
         </div>
         <div className="loginPage">
-          <span>Login</span>
+          <button>Login</button>
           <hr />
         </div>
 
