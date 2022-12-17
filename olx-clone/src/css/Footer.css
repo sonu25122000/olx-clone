@@ -28,3 +28,6 @@
   .footerParentDiv .footer p {
     margin: 0;
   }
+  .pop>li:hover {
+    background: rgb(10, 87, 228);
+  }
