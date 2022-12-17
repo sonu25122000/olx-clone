@@ -20,8 +20,10 @@ import {
     ListItem,
   } from '@chakra-ui/react';
   import { MdLocalShipping } from 'react-icons/md';
+// import { Navigate } from 'react-router';
   
   export default function ProductDetails({image,category,price,description}) {
+  
     return (
       <Container maxW={'7xl'}>
         <SimpleGrid

@@ -10,8 +10,8 @@ function Footer() {
             <p>POPULAR LOCATIONS</p>
           </div>
           <div className="list">
-            <ul>
-              <li>kolkata</li>
+            <ul className='pop'>
+              <li >kolkata</li>
               <li>Mumbai</li>
               <li>Chennai</li>
               <li>Pune</li>
@@ -23,7 +23,7 @@ function Footer() {
             <p>ABOUT US</p>
           </div>
           <div className="list">
-            <ul>
+            <ul className='pop'>
               <li>About OLX Group</li>
               <li>Careers</li>
               <li>Contact Us</li>
@@ -36,7 +36,7 @@ function Footer() {
             <p>OLX</p>
           </div>
           <div className="list">
-            <ul>
+            <ul className='pop'>
               <li>Help</li>
               <li>Sitemap</li>
               <li>Legal & Privacy information</li>
