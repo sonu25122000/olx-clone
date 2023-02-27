@@ -6,7 +6,7 @@ OLX is the perfect online marketplace to buy and sell locally! No need to visit 
 
 
  <h1>Home Page</h1>
-    <img src="https://i.postimg.cc/fb41zvP9/Screenshot-from-2023-01-30-20-50-48.png" alt="">
+    <img src="https://i.postimg.cc/XvfcfyVr/Screenshot-2023-02-27-at-9-34-04-PM.png" alt="">
   <h1>Laptops Page</h1>
     <img src="https://i.postimg.cc/8zfqgYZG/Screenshot-from-2023-01-30-20-51-28.png" alt="">
      <h1>SingleProduct-Page</h1>
