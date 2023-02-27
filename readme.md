@@ -1,7 +1,7 @@
-# Daily Needs 
-Daily Needs is a Lifestyle Accessories Brand that curates stunning designs and prints it on a wide range of personal accessories. We vision to bring the things you love on the things you use.
+# OLX clone
+OLX is the perfect online marketplace to buy and sell locally! No need to visit the flea market to find the best deals on pre-owned items! Here you’ll find a wide selection of like new products.
 
-<h3>Live Demo Link https://daily-needs-hanumat-sharan.vercel.app/ </h3>
+<h3>Live Demo Link https://fantastic-seahorse-4fa219.netlify.app/ </h3>
 
 
 
@@ -28,7 +28,7 @@ Daily Needs is a Lifestyle Accessories Brand that curates stunning designs and p
     <p>If you want to run our project in your local machine</p>
     <p>Follow the given steps:</p>
     <ul>
-        <li>Clone our respository <a href="https://github.com/HANUMAT-SHARAN/bright-noise-2667">https://github.com/HANUMAT-SHARAN/bright-noise-2667</a></li>
+        <li>Clone our respository <a href="https://github.com/sonu25122000/legal-houses-5460.git">https://github.com/sonu25122000/legal-houses-5460.git</a></li>
         <li>Open our code in VS code </li>
  <li>Then do npm install</li>
         <li>Then Initialize the server by writing 'npm run start' on Terminal</li>
@@ -38,16 +38,6 @@ Daily Needs is a Lifestyle Accessories Brand that curates stunning designs and p
     <ul>
         <li>HTML</li>
         <li>CSS</li>
-        <li>Type Script</li>
-        <li>Chakra UI </li>
+        <li>Chakra UI</li>
   <li>React.js</li>
   <li>React Routing</li>
-        <li>node js</li>
-    </ul>
-        <h1>Creators</h1>
-    <ul>
-        <li><a href="https://github.com/HANUMAT-SHARAN">@Hanumat Sharan</a></li>
-   <li><a href="https://github.com/codersudhir">@Sudhir Nandane</a></li>
-   <li><a href="https://github.com/palabhi017">@Abhishek Pal</a></li>
-   <li><a href="https://github.com/sonu25122000">@Sonu Kumar</a></li>
-   <li><a href="https://github.com/raviwed">@illuri raviteja reddy</a></li>
