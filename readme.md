@@ -3,14 +3,12 @@ OLX is the perfect online marketplace to buy and sell locally! No need to visit 
 
 <h3>Live Demo Link https://fantastic-seahorse-4fa219.netlify.app/ </h3>
 
-
-
  <h1>Home Page</h1>
     <img src="https://i.postimg.cc/XvfcfyVr/Screenshot-2023-02-27-at-9-34-04-PM.png" alt="">
   <h1>product Page</h1>
     <img src="https://i.postimg.cc/QVZdJVNM/Screenshot-2023-02-27-at-9-35-04-PM.png" alt="">
      <h1>SingleProduct-Page</h1>
-    <img src="https://i.postimg.cc/YSdz9LMY/Screenshot-2023-02-27-at-9-37-48-PM.png " alt="">
+    <img src="https://i.postimg.cc/CxK7k45d/Screenshot-2023-02-27-at-9-53-00-PM.png" alt="">
     <h1>[Getting Started]</h1>
     <h3>Execution</h3>
     <p>If you want to run our project in your local machine</p>
